@@ -1,11 +1,7 @@
 # Widgets
+This repository made for a university project, used C++11 and a graphic library made by our lecturer.
+(Hungarian) Documentation of the used graphic library: documentation: http://users.itk.ppke.hu/~flugi/grafikuslib/graphics.html
 
-Ez a repo tartalmazza az egyetemi project részeként megírt widget készletet.
-A félév során hétről hétre kellett fejleszteni őket, és később felhasználni őket a különböző beadandókhoz és félév végi vizsgákhoz.
-Widgetek:
- - Gomb
- - Jelölőnégyzet
- - Számbeállító
- - Lista
- - Szövegdoboz
- - Statikus szöveg
+Throughout the semester we had to create and design a set of widgets from scratch (such as Button, Listcontrol, Textcontrol, Numericcontrol, Checkbox, Static Text, etc.) and use them as the base of the three projects and the final exams.
+
+An application class is included, which contains the widgets and the main class runs the application.
